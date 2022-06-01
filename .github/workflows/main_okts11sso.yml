@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'okts11sso'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F137E4762F7D41A3A3A2A8E7BC53FDDB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_231F28D330C040A7BF71F44F83E6973C }}
           package: '*.jar'
